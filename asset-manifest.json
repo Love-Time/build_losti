@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3594ae4d.css",
+    "main.js": "/static/js/main.d4d60f52.js",
+    "static/js/787.1ed70769.chunk.js": "/static/js/787.1ed70769.chunk.js",
+    "static/media/my_photo.jpg": "/static/media/my_photo.516a93f2b95f188050eb.jpg",
+    "static/media/logo.svg": "/static/media/logo.9c532feda6351e89ddb3984b64102171.svg",
+    "static/media/notFound.svg": "/static/media/notFound.d0b9419844cd2d3512be6c6ad95bf976.svg",
+    "static/media/camera.svg": "/static/media/camera.7119ec7021a09dd60f66017e5659f898.svg",
+    "static/media/messages.svg": "/static/media/messages.65a25be78d7da31c64fc9c1f427f79f2.svg",
+    "static/media/favorite.svg": "/static/media/favorite.afb5cba23e2ca785734bf965d297a477.svg",
+    "index.html": "/index.html",
+    "static/media/btnAddFriend.svg": "/static/media/btnAddFriend.38a5e59f1739b6f181c9fbbf77f1c36d.svg",
+    "static/media/photo.svg": "/static/media/photo.bd71bd645f3e024762e66982fddf29d8.svg",
+    "static/media/check_mark.svg": "/static/media/check_mark.6ec59dc5f75c4dc7be52a5a5fafba510.svg",
+    "main.3594ae4d.css.map": "/static/css/main.3594ae4d.css.map",
+    "main.d4d60f52.js.map": "/static/js/main.d4d60f52.js.map",
+    "787.1ed70769.chunk.js.map": "/static/js/787.1ed70769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3594ae4d.css",
+    "static/js/main.d4d60f52.js"
+  ]
+}
